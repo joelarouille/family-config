@@ -1,0 +1,27 @@
+name: Azimut
+key: azimut
+color: red
+emblem: A_Char_Rocket_02
+info:
+  logo: /static/img/branding/cr-api-logo.png
+  description: >
+    La famille Azimut comporte 7 clans aux joueurs essentiellement francophones.
+    Créés en 2018, nos clans ont pour valeur commmune le respect, le partage et entraide.
+    Nos ambitions sont modestes mais notre progression est constante.
+  social:
+    - discord: https://discord.gg/e3w4qrj
+clans:
+  - name: Azimut
+    tag: 9RY9L0RL
+  - name: Azumit
+    tag: 9JLVLCQY
+  - name: Izamut
+    tag: 9J0JJU29
+  - name: Izumat
+    tag: 9RVVPRLC
+  - name: Uzamit
+    tag: PG0Q2CC2
+  - name: Uzimat
+    tag: PLUY28C0
+  - name: Tumiza
+    tag: 9JCCYYLOP
